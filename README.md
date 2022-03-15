@@ -2,10 +2,11 @@
 
 My name is Daniel Kim and I am a high school hobbyist rocketeer living in New Mexico, USA.
 I code in:
-<img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=flat" />
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=flat" />
 
 <h3>Some social sites to learn more!</h3>
-<p><a href="https://github.com/daniel360kim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.smalltron.com/" target="_blank"><img alt="Website" /></a> <a href="https://www.youtube.com/c/NMRocketry" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/youtube/channel/subscribers/UC0VazqJrUQiJGd_Tedn47zA?style=social" /></a> 
+<p><a href="https://github.com/daniel360kim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.smalltron.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-blue"  /></a> <a href="https://www.youtube.com/c/NMRocketry" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/youtube/channel/subscribers/UC0VazqJrUQiJGd_Tedn47zA?style=social" /></a> 
 </p>
 <!--
 **daniel360kim/daniel360kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
