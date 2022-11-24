@@ -1,7 +1,7 @@
 ## Welcome to my page! 👋
 
 ### Daniel Kim
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel360kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel360kim&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 * 🔭 Junior at Los Alamos High School
 * 🌱 I’m currently working on an underwater glider
 * 📫 How to reach me: nmrs.thrust@gmail.com
