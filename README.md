@@ -2,6 +2,12 @@
 
 ### Daniel Kim
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel360kim&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daniel360kim/count.svg" />
+</p>
+
 * 🔭 Junior at Los Alamos High School
 * 🌱 I’m currently working on an underwater glider
 * 📫 How to reach me: nmrs.thrust@gmail.com
