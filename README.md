@@ -10,7 +10,7 @@
 
 * 🔭 Junior at Los Alamos High School
 * 🌱 I’m currently working on an underwater glider
-* 📫 How to reach me: nmrs.thrust@gmail.com
+* 📫 How to reach me: daniel.kim@studentlaschools.net
 
 <h3>Some social sites to learn more!</h3>
 <p><a href="https://github.com/daniel360kim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.smalltron.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-blue"  /></a> <a href="https://www.youtube.com/c/NMRocketry" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/youtube/channel/subscribers/UC0VazqJrUQiJGd_Tedn47zA?style=social" /></a> 
