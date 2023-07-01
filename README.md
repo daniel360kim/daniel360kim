@@ -3,7 +3,7 @@
 ### Daniel Kim
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel360kim&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-* My stats suck, I'm a high school lol
+* My stats suck, I'm a high schooler lol
 
 <p align="left"> 
   Visitor count<br>
