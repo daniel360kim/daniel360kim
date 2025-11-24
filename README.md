@@ -1,8 +1,7 @@
 ## Welcome to my page! 👋
 
 ### Daniel Kim
-* 🔭 Freshman at Rice University
-* 🌱 I’m currently working on a productivity website
+* 🔭 Sophomore at Rice University
 * 📫 How to reach me: dk77@rice.edu
 
 <!--
