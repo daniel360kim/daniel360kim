@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Daniel Kim 👋</h1>
 
 <p align="center">
-  Junior at Rice University
+  <a href="https://github.com/daniel360kim">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=520&lines=Junior+at+Rice+University;Builder+%26+tinkerer;Powered+by+caffeine+%26+curiosity;%2F%2F+TODO%3A+sleep" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
@@ -15,13 +17,15 @@
 
 ---
 
-### About
+```bash
+$ whoami
+> daniel
 
-- 🎓 Studying at Rice University
-- 📫 Reach me at [dk77@rice.edu](mailto:dk77@rice.edu)
+$ cat ~/.about
+> 🎓 Junior at Rice University
+> 📫 dk77@rice.edu
+> 🧪 Always building something
 
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel360kim&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
+$ uptime
+> still curious after all these years
+```
